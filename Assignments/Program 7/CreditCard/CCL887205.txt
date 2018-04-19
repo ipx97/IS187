@@ -1,0 +1,17 @@
+Jul 23, 2016 4:35:30 PM:	Account 887205 opened.
+Jul 23, 2016 4:35:39 PM:	Credit increase of 100.0 has been approved!
+Jul 23, 2016 4:35:42 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 4:35:54 PM:	Charge of 54.25 for Gas posted.
+Jul 23, 2016 4:36:24 PM:	Payment of 21.2 posted.
+Jul 23, 2016 4:38:49 PM:	Interest charge of 0.13770833333333332 posted.
+Jul 23, 2016 4:39:22 PM:	Interest charge of 1.3828211805555555 posted.
+Jul 23, 2016 4:39:30 PM:	Interest charge of 25.927897135416664 posted.
+Jul 23, 2016 11:43:49 PM:	Interest charge of $2.77 at a rate of 0.55 per year was posted.
+Jul 23, 2016 11:44:36 PM:	Interest charge of $2.90 at a rate of 0.55 per year was posted.
+Jul 23, 2016 11:45:31 PM:	Charge of $55.00 for gas posted.
+Jul 23, 2016 11:45:44 PM:	Credit increase of $100.00 has been denied.
+Jul 23, 2016 11:45:48 PM:	Credit increase of $100.00 has been approved!
+Jul 23, 2016 11:46:05 PM:	Payment of $5,555.55 declined - payment is greater than balance due.
+Jul 23, 2016 11:46:13 PM:	Payment of $55.21 posted.
+Jul 24, 2016 12:08:25 AM:	Payment of $500.42 posted.
+Jul 24, 2016 12:08:51 AM:	Charge of $500.00 for nhnj posted.

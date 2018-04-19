@@ -1,0 +1,27 @@
+Jul 23, 2016 12:32:46 PM:	Account 343986 opened.
+Jul 23, 2016 1:36:49 PM:	Charge of 50.0 for gas posted.
+Jul 23, 2016 1:37:09 PM:	Charge of -1.0 declined: must be greater than zero
+Jul 23, 2016 1:37:23 PM:	Charge of 120000.0 declined - insufficient credit.
+Jul 23, 2016 1:48:41 PM:	Payment of 55.0 posted.
+Jul 23, 2016 1:49:31 PM:	Payment of -89.0 declined: must be greater than zero
+Jul 23, 2016 1:50:18 PM:	Payment of 55.0 declined - payment is greater than balance due.
+Jul 23, 2016 2:26:33 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:26:34 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:26:35 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:29:31 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:29:32 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:29:33 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:29:33 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:32:14 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:32:15 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:32:15 PM:	Credit increase of 100.0 has been approved!
+Jul 23, 2016 2:32:15 PM:	Credit increase of 100.0 has been approved!
+Jul 23, 2016 2:32:18 PM:	Credit increase of 100.0 has been approved!
+Jul 23, 2016 2:32:19 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 2:32:20 PM:	Credit increase of 100.0 has been approved!
+Jul 23, 2016 4:01:20 PM:	Credit increase of 10.0 declined: must be in increments of 100.
+Jul 23, 2016 4:01:24 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 4:01:31 PM:	Credit increase of 100.0 has been denied.
+Jul 23, 2016 4:01:35 PM:	Credit increase of 1000.0 has been denied.
+Jul 23, 2016 4:01:40 PM:	Credit increase of 200.0 has been denied.
+Jul 23, 2016 4:01:43 PM:	Credit increase of 200.0 has been approved!
